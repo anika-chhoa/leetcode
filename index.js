@@ -7,6 +7,6 @@
 // console.log(newArr)
 
 // Two pointer: 344, 167, 125, 27, 283
-//sliding window: 643,1343, 3, 209
+//sliding window: 643,1343, 3, 209, 713, 1004 
 
 
